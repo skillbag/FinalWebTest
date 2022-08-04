@@ -1,4 +1,4 @@
-![Selenium](https://www.bugraptors.com/blog/public/blog_images/why-we-choose-selenium-webdriver-over-selenium-ide-wyc9f-600x400.jpg)
+![Selenium](https://thumb.tildacdn.com/tild6637-6235-4562-a665-653038356638/-/resize/500x/-/format/webp/icon.jpg)
 >**Тест1** Открывает и закрывает сайт ![SkillFactory](https://static.tildacdn.com/tild3934-3832-4738-a665-646331376534/SF_MRG_-_black.svg)
 >>
 >**Тест2** Открывает все курсы *SKILLFACTORY*
