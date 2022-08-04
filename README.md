@@ -1,5 +1,5 @@
 # FinalWebTest
-![Selenium]([https://https://piperlink.com/media/techs/selenium_logo_large.png](https://img-blog.csdnimg.cn/img_convert/76925e64f5140c4db402d8519e47d6e1.png))
+![Selenium](https://www.bugraptors.com/blog/public/blog_images/why-we-choose-selenium-webdriver-over-selenium-ide-wyc9f-600x400.jpg)
 >Тест1 Открывает и закрывает сайт ![SkillFactory](https://static.tildacdn.com/tild3934-3832-4738-a665-646331376534/SF_MRG_-_black.svg)
 >>
 >Тест2 Открывает все курсы *SKILLFACTORY*
