@@ -1,5 +1,5 @@
 # FinalWebTest
-![Selenium](https://https://piperlink.com/media/techs/selenium_logo_large.png)
+![Selenium]([https://https://piperlink.com/media/techs/selenium_logo_large.png](https://img-blog.csdnimg.cn/img_convert/76925e64f5140c4db402d8519e47d6e1.png))
 >Тест1 Открывает и закрывает сайт ![SkillFactory](https://static.tildacdn.com/tild3934-3832-4738-a665-646331376534/SF_MRG_-_black.svg)
 >>
 >Тест2 Открывает все курсы *SKILLFACTORY*
@@ -20,7 +20,7 @@
 >>
 >Тест10 Проверка главного лого сайта возврат на гланвую страницу ![SkillFactory](https://static.tildacdn.com/tild3934-3832-4738-a665-646331376534/SF_MRG_-_black.svg)
 >>
->Тест11 Открывает социальные сети ![Social Network](http://restoranoff.ru/upload/iblock/a48/social-page_main.png)
+>Тест11 Открывает социальные сети [Social Network]
 >>
 >Тест12 Разворачивает статью отличие профессии от специализации
 >>
